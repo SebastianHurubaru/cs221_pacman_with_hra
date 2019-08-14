@@ -1,5 +1,4 @@
-# cs221_pacman_with_hra
-Hybrid Reward Architecture with Stanford CS221 Pacman
+# Hybrid Reward Architecture with Stanford CS221 Pacman
 
 The motivation behind this is Stanford CS221 Pacman homework where we had to implement Expectimax with a static evaluation function and the top three scores were rewarded. 
 After finishing CS221 read the Hybrid Reward Architecture paper from: https://papers.nips.cc/paper/7123-hybrid-reward-architecture-for-reinforcement-learning.pdf and decided to make the Pacman a bit smarter using Reinforcement Learning. 
